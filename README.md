@@ -54,6 +54,3 @@ function Yes() {
   alert("정답입니다!");
 }
 </script>
-
-</body>
-</html>
