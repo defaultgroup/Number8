@@ -51,6 +51,6 @@ function Nope() {
   alert("틀렸네요!");
 }
 function Yes() {
-  alert("정답입니다!");
+  alert("정답입니다! 키워드는 '만' 입니다.");
 }
 </script>
