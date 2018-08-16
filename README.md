@@ -19,8 +19,7 @@ input {color: red; background-color:
 </head>
 
 <body >
-  <h1> 수학 <br> 8번. 이 문제의 보기 중,
-    올바른 것만 고른 것은? </h1>
+  <h1>8번. 이 문제의 보기 중, 올바른 것만 고른 것은? </h1>
 <img src="https://samtoring.com/qstn/QST0032064.png"
  height="250" width="500"><br>
 <br>
