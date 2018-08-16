@@ -41,8 +41,8 @@ input {color: red; background-color:
   onclick="Yes()">
 <br>
 <br>
-<a href="https://defaultgroup.github.io/Number9/"> <button> 다음문제로! </button></a> &ensp; &ensp;
-<a href="https://defaultgroup.github.io/END/"> <button> 최종정답으로! </button></a>
+<a href="https://defaultgroup.github.io/Number9/" class="button"> <button> 다음문제로! </button></a> &ensp; &ensp;
+<a href="https://defaultgroup.github.io/END/" class="button"> <button> 최종정답으로! </button></a>
 
 
 
